@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_FinanceTracker_FILE /Users/gracehousman/FinanceTracker/build/Qt_6_9_2_for_macOS-Debug/FinanceTracker.app/Contents/MacOS/FinanceTracker)
+set(__QT_DEPLOY_TARGET_FinanceTracker_TYPE EXECUTABLE)

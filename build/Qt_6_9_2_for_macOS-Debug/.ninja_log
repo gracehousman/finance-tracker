@@ -1,0 +1,11 @@
+# ninja log v6
+13	59	1769407359150909592	FinanceTracker_autogen/timestamp	25b84886a36be9ef
+991	1136	1769407360129096857	FinanceTracker.app/Contents/MacOS/FinanceTracker	61f5e16df7127c56
+13	59	1769407359150909592	/Users/gracehousman/FinanceTracker/build/Qt_6_9_2_for_macOS-Debug/FinanceTracker_autogen/mocs_compilation.cpp	25b84886a36be9ef
+425	1192	1769407115957817320	CMakeFiles/FinanceTracker.dir/FinanceTracker_autogen/mocs_compilation.cpp.o	d91973278fefb1d2
+13	59	1769407359150909592	/Users/gracehousman/FinanceTracker/build/Qt_6_9_2_for_macOS-Debug/FinanceTracker_autogen/timestamp	25b84886a36be9ef
+108	944	1769407301208605646	CMakeFiles/FinanceTracker.dir/finance.cpp.o	570c6e0899f64e64
+13	59	1769407359150909592	FinanceTracker_autogen/mocs_compilation.cpp	25b84886a36be9ef
+425	1192	1769407115958034860	CMakeFiles/FinanceTracker.dir/main.cpp.o	ae9949f6f9655a5
+60	991	1769407359197478472	CMakeFiles/FinanceTracker.dir/mainwindow.cpp.o	3b6716ca41918439
+299	1047	1769405694051459585	CMakeFiles/FinanceTracker.dir/transaction.cpp.o	d42afc87034e3627
